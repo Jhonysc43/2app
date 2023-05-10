@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-# Nosso objetivo é bem simples: impulsionar sua empresa na web e conquistar milhares de clientes
+# Nosso objetivo é bem simples: impulsionar sua empresa na web para conquistar milhares de clientes
 
 ## Missão:
 
