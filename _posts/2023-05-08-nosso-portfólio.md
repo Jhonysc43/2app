@@ -12,7 +12,7 @@ meta: "Springfield"
 
 
 ## Concessionária do Joaquim
-![Concessionária](../concessionaria/concessionaria.png)
+![Concessionária](../assets/concessionaria/concessionaria.png)
 
 
 <!--
