@@ -9,7 +9,7 @@ meta: "Springfield"
 ---
 # Artista visual
 
-![Artista](home.png){: width="720" height="300" }
+![Artista](assets/home.png){: width="720" height="300" }
 
 
 <!--
