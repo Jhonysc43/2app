@@ -7,7 +7,7 @@ author:
 - Nelson Mandela Muntz
 meta: "Springfield"
 ---
-## Artista visual
+## Hellen Carvalho - Artista visual
 ![Artista](home.png){: width="720" height="300" }
 
 
