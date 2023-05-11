@@ -7,9 +7,10 @@ author:
 - Nelson Mandela Muntz
 meta: "Springfield"
 ---
-# ERROR 404
+# Artista visual
 
-# PAGINA EM MANUTENÇÃO
+![Artista](assets/home.png){: width="720" height="300" }
+
 
 <!--
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
