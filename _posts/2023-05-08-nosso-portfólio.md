@@ -10,12 +10,12 @@ meta: "Springfield"
 ## Hellen Carvalho - Artista visual
 <img src="../assets/home.png" alt="image error" width="300" height="200">
 
-<!--![Artista](../assets/home.png)-->
+![Artista](../assets/home.png)
 
 
 ## Concessionária do Joaquim
 <img src="../assets/concessionaria/concessionaria.png" alt="image error" width="300" height="200">
-<!--![Concessionária](../assets/concessionaria/concessionaria.png)-->
+[Concessionária](../assets/concessionaria/concessionaria.png)
 
 
 <!--
