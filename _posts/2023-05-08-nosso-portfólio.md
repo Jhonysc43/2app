@@ -8,7 +8,7 @@ author:
 meta: "Springfield"
 ---
 ## Hellen Carvalho - Artista visual
-![Artista](assets/home.png)
+![Artista](../assets/home.png)
 
 
 ## Concessionária do Joaquim
