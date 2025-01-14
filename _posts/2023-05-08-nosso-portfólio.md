@@ -6,9 +6,10 @@ author:
 - Jhonatan Santos
 
 meta: "Springfield"
+img: home.png
 ---
 ## Hellen Carvalho - Artista visual
-img: ../assets/home.png" alt="image error" width="300" height="200"
+
 
 ![Artista](../assets/home.png)
 
