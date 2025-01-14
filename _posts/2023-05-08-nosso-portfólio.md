@@ -8,7 +8,7 @@ author:
 meta: "Springfield"
 ---
 ## Hellen Carvalho - Artista visual
-<img src="../assets/home.png" alt="image error" width="300" height="200">
+img: ../assets/home.png" alt="image error" width="300" height="200"
 
 ![Artista](../assets/home.png)
 
